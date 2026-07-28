@@ -1,0 +1,2 @@
+[auto_activate_environments]
+"/home/mhelton/code/hello" = "deny"
